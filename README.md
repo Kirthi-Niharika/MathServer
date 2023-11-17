@@ -1,32 +1,22 @@
 # Ex.05 Design a Website for Server Side Processing
 ## Date: 26/10/23
-
 ## AIM:
 To design a website to find total surface area of a square prism in server side.
-
 ## FORMULA:
 ![image](https://github.com/selvasachein/MathServer/assets/120453887/8ecc8d12-b9a9-43df-be0b-711f299d796d)
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
-
 ### Step 2:
 Create Django Admin project.
-
 ### Step 3:
 Create a New App under the Django Admin project.
-
 ### Step 4:
 Create python programs for views and urls to perform server side processing.
-
 ### Step 5:
 Create a HTML file to implement form based input and output.
-
 ### Step 6:
 Publish the website in the given URL.
-
 ## PROGRAM :
 ### math.html
 ```html
@@ -40,7 +30,6 @@ Publish the website in the given URL.
         body {
             background-color: rgb(255, 107, 107);
         }
-
         .edge {
             width: 1440px;
             margin-left: auto;
@@ -48,7 +37,6 @@ Publish the website in the given URL.
             padding-top: 250px;
             padding-left: 300px;
         }
-
         .box {
             display: block;
             border: Thick rgb(24, 84, 24);
@@ -58,14 +46,12 @@ Publish the website in the given URL.
             border-radius: 30px;
             background-color: rgb(13, 4, 23);
         }
-
         .formelt {
             color: orange;
             text-align: center;
             margin-top: 7px;
             margin-bottom: 6px;
         }
-
         h1 {
             color: rgb(81, 0, 255);
             text-align: center;
@@ -73,7 +59,6 @@ Publish the website in the given URL.
         }
     </style>
 </head>
-
 <body>
     <div class="edge">
         <div class="box">
