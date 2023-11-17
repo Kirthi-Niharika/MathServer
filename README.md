@@ -98,11 +98,8 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-
 ### views.py
 ```py
-
-
 from django.shortcuts import render
 def rectarea(request):
     context={}
@@ -151,7 +148,7 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT :
-![Alt text](image-2.png)
-![Alt text](image.png)
+![image](https://github.com/Kirthi-Niharika/MathServer/assets/114135005/01affb1b-a3ba-46d5-90e6-b48458cfd71d)
+![image](https://github.com/Kirthi-Niharika/MathServer/assets/114135005/1ca81957-790e-48e9-acaa-72ea2db0fc84)
 ## RESULT:
 The program for performing server side processing is completed successfully.
